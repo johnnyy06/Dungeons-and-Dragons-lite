@@ -1,0 +1,2 @@
+Punch 30 Strength 10
+Kick 40 Strength 15

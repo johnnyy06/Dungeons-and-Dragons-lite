@@ -1,0 +1,4 @@
+Portal Bastille Intelligence 10
+Portal Hallway Intelligence 17
+Portal Library Intelligence 14
+Book Dexterity 2 Intelligence 10

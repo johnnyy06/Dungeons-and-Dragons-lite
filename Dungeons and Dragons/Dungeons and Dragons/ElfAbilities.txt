@@ -1,0 +1,1 @@
+Bow_Shot 30 Dexterity 20

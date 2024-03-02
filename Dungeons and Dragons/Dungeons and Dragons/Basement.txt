@@ -1,0 +1,3 @@
+Portal TreeHouse Intelligence 20
+Book Strength 2 Intelligence 15
+Door Hallway Strength 10

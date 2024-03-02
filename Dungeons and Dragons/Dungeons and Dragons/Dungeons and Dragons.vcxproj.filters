@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Abilities">
+      <UniqueIdentifier>{b8806892-fdd4-4c20-8208-6af40b961586}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Rooms">
+      <UniqueIdentifier>{5aa1ece1-ef35-405c-bc28-3c951e69eda9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Background">
+      <UniqueIdentifier>{04131aae-4a43-4982-8575-dcd89bf8759f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Attributes">
+      <UniqueIdentifier>{67876d69-bb24-4c34-808b-1c6e698f8260}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CExceptions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Race.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Class.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ICharacter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dungeon_Master.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ability.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Attribute.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="WizardAbilities.txt">
+      <Filter>Resource Files\Abilities</Filter>
+    </Text>
+    <Text Include="ClericAbilities.txt">
+      <Filter>Resource Files\Abilities</Filter>
+    </Text>
+    <Text Include="DwarfAbilities.txt">
+      <Filter>Resource Files\Abilities</Filter>
+    </Text>
+    <Text Include="ElfAbilities.txt">
+      <Filter>Resource Files\Abilities</Filter>
+    </Text>
+    <Text Include="FighterAbilities.txt">
+      <Filter>Resource Files\Abilities</Filter>
+    </Text>
+    <Text Include="HalflingAbilities.txt">
+      <Filter>Resource Files\Abilities</Filter>
+    </Text>
+    <Text Include="HumanAbilities.txt">
+      <Filter>Resource Files\Abilities</Filter>
+    </Text>
+    <Text Include="RogueAbilities.txt">
+      <Filter>Resource Files\Abilities</Filter>
+    </Text>
+    <Text Include="Hallway.txt">
+      <Filter>Resource Files\Rooms</Filter>
+    </Text>
+    <Text Include="Library.txt">
+      <Filter>Resource Files\Rooms</Filter>
+    </Text>
+    <Text Include="Basement.txt">
+      <Filter>Resource Files\Rooms</Filter>
+    </Text>
+    <Text Include="Bastille.txt">
+      <Filter>Resource Files\Rooms</Filter>
+    </Text>
+    <Text Include="TreeHouse.txt">
+      <Filter>Resource Files\Rooms</Filter>
+    </Text>
+    <Text Include="Acolyte.txt">
+      <Filter>Resource Files\Background</Filter>
+    </Text>
+    <Text Include="Criminal.txt">
+      <Filter>Resource Files\Background</Filter>
+    </Text>
+    <Text Include="Sage.txt">
+      <Filter>Resource Files\Background</Filter>
+    </Text>
+    <Text Include="Soldier.txt">
+      <Filter>Resource Files\Background</Filter>
+    </Text>
+    <Text Include="HumanAttributes.txt">
+      <Filter>Resource Files\Attributes</Filter>
+    </Text>
+    <Text Include="DwarfAttributes.txt">
+      <Filter>Resource Files\Attributes</Filter>
+    </Text>
+    <Text Include="ElfAttributes.txt">
+      <Filter>Resource Files\Attributes</Filter>
+    </Text>
+    <Text Include="HalflingAttributes.txt">
+      <Filter>Resource Files\Attributes</Filter>
+    </Text>
+    <Text Include="ClericAttributes.txt">
+      <Filter>Resource Files\Attributes</Filter>
+    </Text>
+    <Text Include="FighterAttributes.txt">
+      <Filter>Resource Files\Attributes</Filter>
+    </Text>
+    <Text Include="RogueAttributes.txt">
+      <Filter>Resource Files\Attributes</Filter>
+    </Text>
+    <Text Include="WizardAttributes.txt">
+      <Filter>Resource Files\Attributes</Filter>
+    </Text>
+    <Text Include="LoggerFile.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CExceptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Race.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Class.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ICharacter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dungeon_Master.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ability.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Attribute.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Colors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

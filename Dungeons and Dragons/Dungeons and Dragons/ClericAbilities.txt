@@ -1,0 +1,2 @@
+Divine_Intervention 25 Intelligence 15
+Unreal_Punch 40 Intelligence 15

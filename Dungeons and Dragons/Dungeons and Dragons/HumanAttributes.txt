@@ -1,0 +1,3 @@
+Strength 1
+Intelligence 1
+Dexterity 1

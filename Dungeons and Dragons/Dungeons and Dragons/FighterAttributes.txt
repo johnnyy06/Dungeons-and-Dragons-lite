@@ -1,0 +1,3 @@
+Dexterity 12
+Intelligence 10
+Strength 20

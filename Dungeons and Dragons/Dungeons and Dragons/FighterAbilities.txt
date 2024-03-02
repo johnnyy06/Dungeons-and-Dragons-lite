@@ -1,0 +1,2 @@
+Mace_Strike 40 Strength 20
+Sword_Cut 25 Strength 15

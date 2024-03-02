@@ -1,0 +1,4 @@
+Door Basement Intelligence 15
+Portal TreeHouse Intelligence 20
+Book Strength 2 Intelligence 20
+Book Dexteriy 2 Intelligence 17

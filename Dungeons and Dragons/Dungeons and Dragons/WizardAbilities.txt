@@ -1,0 +1,2 @@
+Fireball 20 Intelligence 10
+Thunder_Strike 35 Intelligence 20

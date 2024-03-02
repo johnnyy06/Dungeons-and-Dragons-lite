@@ -1,0 +1,2 @@
+Door Basement Strength 17
+Book Strength 1 Intelligence 10
